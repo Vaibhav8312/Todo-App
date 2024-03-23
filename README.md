@@ -1,5 +1,5 @@
 # Todo-App
 Made a Todo app using React
 
-![image](/images/todoapp.img)
+![image](/images/todoapp.png)
 
